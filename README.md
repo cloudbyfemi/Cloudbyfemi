@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CloudbyFemi/CloudbyFemi/main/banner.png" alt="CloudbyFemi Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/CloudbyFemi/CloudbyFemi/main/41B66663-1A22-4625-AB41-2CAF9DB1D8C3.png" alt="CloudbyFemi Banner" width="100%">
 </p>
 
 # 👋 Hi, I’m Femi  
