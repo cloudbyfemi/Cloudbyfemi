@@ -1,16 +1,41 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CloudbyFemi/CloudbyFemi/main/banner.png" alt="CloudbyFemi Banner" width="100%">
+</p>
 
-<!--
-**cloudbyfemi/Cloudbyfemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Femi  
 
-Here are some ideas to get you started:
+🚀 Cloud Engineer in progress — passionate about building scalable cloud solutions and DevOps pipelines.  
+🌍 Preparing for opportunities in **Canada** while sharpening skills in **Azure, AWS, and Google Cloud**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Focus
+- ☁️ Cloud Platforms: **Azure | AWS | GCP**
+- 🔧 Tools: **GitHub Actions, Terraform, Docker, Kubernetes**
+- 📜 Certifications in progress: **AZ-900 | AWS Cloud Practitioner | GCP Associate Cloud Engineer**
+- ⚡ Interests: DevOps, Infrastructure as Code, Serverless, Multi-Cloud
+
+---
+
+## 📂 Featured Projects
+🌟 Coming soon:  
+- Static Website hosted on Azure, AWS, GCP  
+- CI/CD pipeline with GitHub Actions  
+- Terraform Infrastructure-as-Code templates  
+- Kubernetes multi-cloud deployments  
+
+---
+
+## 🏅 Badges
+![Azure](https://img.shields.io/badge/Azure-Fundamentals-blue)  
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange)  
+![GCP](https://img.shields.io/badge/GCP-Associate%20Engineer-lightgrey)  
+
+---
+
+## 📫 Let’s Connect
+- Email:Cloudbyfemi@outlook.com(#)
+
+---
+✨ *Follow my journey into Cloud Engineering — from Nigeria to 🍁🇨🇦*
